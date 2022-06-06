@@ -14,17 +14,17 @@ Thanks For Being HERE
 
 ## Watch Out the Full Video on YouTube
 
-`Video link`
+`Video Demo`
 
-- https://youtu.be/FEujXMl7-D4
+- 
 
 ## Follow us For more Amazing Videos
 
-`Our Youtube Channel`
+`Email - You can message me through here`
 
-- https://www.youtube.com/channel/UC07K1c4xgD6x21Lak4wVuiA
+- ramonnapa28@gmail.com
 
 `Github Profile`
 
-- https://github.com/jaydipvidhate
+- https://github.com/ramonnapa28
 ```
