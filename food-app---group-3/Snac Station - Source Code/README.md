@@ -8,7 +8,7 @@
  
 ```
 
-Thanks For Being HERE
+Thanks!
 
 ```
 
@@ -18,7 +18,15 @@ Thanks For Being HERE
 
 - https://drive.google.com/file/d/11CiBvO0HfsWUKPUZfLpa57Y6eKIsruBk/view?usp=sharing
 
-## Follow my GitHub Account
+`Documentation (Word Document)`
+
+-
+
+`Presentation (Powerpoint)`
+
+- https://docs.google.com/presentation/d/19-pBFH3Ca4dZa1H0tJ600T5H1zRWkSs5/edit?usp=sharing&ouid=109108887119013813692&rtpof=true&sd=true
+
+## Hello!
 
 `Email - You can message me through here`
 
