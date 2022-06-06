@@ -8,7 +8,7 @@
  
 ```
 
-Thanks!
+Thanks for being here!
 
 ```
 
@@ -20,7 +20,7 @@ Thanks!
 
 `Documentation (Word Document)`
 
--
+- https://docs.google.com/document/d/1BSskNkcoiif4S_H7zFnzwZz5fK7LCkh9GaIOmHIATr4/edit?usp=sharing
 
 `Presentation (Powerpoint)`
 
