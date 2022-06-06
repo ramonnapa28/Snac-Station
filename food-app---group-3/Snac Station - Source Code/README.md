@@ -1,4 +1,4 @@
-# Food Delivery App
+# Food Order App
 
 `React Native` `UI`
 
@@ -12,13 +12,13 @@ Thanks For Being HERE
 
 ```
 
-## Watch Out the Full Video on YouTube
+## You can watch the video below.
 
 `Video Demo`
 
-- 
+- https://drive.google.com/file/d/11CiBvO0HfsWUKPUZfLpa57Y6eKIsruBk/view?usp=sharing
 
-## Follow us For more Amazing Videos
+## Follow my GitHub Account
 
 `Email - You can message me through here`
 
